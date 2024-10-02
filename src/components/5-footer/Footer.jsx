@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className='flex'>
       <ul className='flex'>
-        <li><a href="#about">About</a></li>
+        <li><a href="#hero">About</a></li>
         <li><a href="#main">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>

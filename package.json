@@ -1,5 +1,5 @@
 {
-  "homepage": "http://yousrik20.github.io/portfolio",
+  "homepage": "https://yousrik20.github.io/portfolio",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-	  "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "clean": "rm -rf dist"
   },
   "dependencies": {
     "@formspree/react": "^2.5.1",
