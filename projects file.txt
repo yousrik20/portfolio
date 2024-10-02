@@ -1,0 +1,62 @@
+const myProjects = [
+  {
+    projectTitle: "Light & Dark",
+    category: ["css"],
+    imagePath: "./projects/1.png",
+  },
+  {
+    projectTitle: "Passion",
+    category: ["css"],
+    imagePath: "./projects/2.png",
+  },
+  {
+    projectTitle: "GermanboyStudio",
+    category: ["css"],
+    imagePath: "./projects/5.png",
+  },
+  {
+    projectTitle: "GermanBoy Inc",
+    category: ["js"],
+    imagePath: "./projects/4.png",
+  },
+  {
+    projectTitle: "Germanboy",
+    category: ["js"],
+    imagePath: "./projects/3.png",
+  },
+  {
+    projectTitle: "Germanboy 2022",
+    category: ["js"],
+    imagePath: "./projects/6.png",
+  },
+  {
+    projectTitle: "Agency",
+    category: ["react"],
+    imagePath: "./projects/7.png",
+  },
+  {
+    projectTitle: "Video Search",
+    category: ["react"],
+    imagePath: "./projects/8.png",
+  },
+  {
+    projectTitle: "Image Search",
+    category: ["react"],
+    imagePath: "./projects/9.png",
+  },
+  {
+    projectTitle: "Color Generator",
+    category: ["react"],
+    imagePath: "./projects/10.png",
+  },
+  {
+    projectTitle: "Expense Tracker",
+    category: ["react"],
+    imagePath: "./projects/11.png",
+  },
+  {
+    projectTitle: "Mad Umzug",
+    category: ["react"],
+    imagePath: "./projects/12.png",
+  },
+];

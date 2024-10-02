@@ -4,10 +4,9 @@ export default function Footer() {
   return (
     <footer className='flex'>
       <ul className='flex'>
-        <li><a href="">About</a></li>
-        <li><a href="">Projects</a></li>
-        <li><a href="">Speaking</a></li>
-        <li><a href="">Uses</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#main">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
       <p>&copy; 2024 All rights reserved</p>
     </footer>
