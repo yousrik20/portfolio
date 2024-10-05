@@ -97,6 +97,7 @@ main section.right-section.flex{
     font-size: .8rem;
     margin-top: .7rem;
     margin-bottom: 1.1rem;
+    text-align:start;
 }
 .card .box .icons{
     justify-content: space-between;
