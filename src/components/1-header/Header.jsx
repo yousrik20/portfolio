@@ -46,7 +46,7 @@ export default function header() {
           setTheme(localStorage.getItem("currentMode"));
         }}
       >
-        {theme==='dark' ? (
+        {theme === "dark" ? (
           <span className="icon-moon-o"></span>
         ) : (
           <span className="icon-sun"></span>
@@ -62,19 +62,13 @@ export default function header() {
               />
             </li>
             <li>
-              <a href="">About</a>
+              <a href="#hero">About</a>
             </li>
             <li>
-              <a href="">Articles</a>
+              <a href="#main">Projects</a>
             </li>
             <li>
-              <a href="">Projects</a>
-            </li>
-            <li>
-              <a href="">Speaking</a>
-            </li>
-            <li>
-              <a href="">Users</a>
+              <a href="#contact">Contact</a>
             </li>
           </ul>
         </div>

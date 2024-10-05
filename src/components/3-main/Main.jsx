@@ -69,9 +69,7 @@ export default function Main() {
                 <div className="box" style={{ width: "266px" }}>
                   <h1 className="title">{item.projectTitle}</h1>
                   <p className="sub-title">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Ducimus, voluptatibus assumenda pariatur quos consequatur
-                    eos id vitae error necessitatibus
+                    {item.desc.substring(0,150)} ...
                   </p>
                   <div className="flex icons">
                     <div style={{ gap: "11px" }} className="flex">

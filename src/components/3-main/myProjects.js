@@ -1,88 +1,98 @@
 export const myProjects = [
-    {
-      projectTitle: "Light & Dark",
-      category: ["css"],
-      imagePath: "./projects/1.png",
-      github:'https://github.com/yousrik20/darkLight-template',
-      link:'https://yousrik20.github.io/darkLight-template/'
-      
-    },
-    {
-      projectTitle: "Passion",
-      category: ["css"],
-      imagePath: "./projects/2.png",
-      github:"https://github.com/yousrik20/passion",
-      link:"https://yousrik20.github.io/passion/"
-    },
-    {
-      projectTitle: "GermanboyStudio",
-      category: ["css"],
-      imagePath: "./projects/5.png",
-      github:'https://laughing-ardinghelli-30e0f5.netlify.app/',
-      link:'https://laughing-ardinghelli-30e0f5.netlify.app/'
-    },
-    {
-      projectTitle: "GermanBoy Inc",
-      category: ["js"],
-      imagePath: "./projects/4.png",
-      github:'https://github.com/yousrik20/template-inc',
-      link:'https://yousrik20.github.io/template-inc/'
-    },
-    {
-      projectTitle: "Germanboy",
-      category: ["js"],
-      imagePath: "./projects/3.png",
-      github:'https://github.com/yousrik20/germanboy2021',
-      link:'https://yousrik20.github.io/germanboy2021/'
-    },
-    {
-      projectTitle: "Germanboy 2022",
-      category: ["js"],
-      imagePath: "./projects/6.png",
-      github:"https://github.com/yousrik20/germanboy",
-      link:'https://yousrik20.github.io/germanboy/'
-    },
-    {
-      projectTitle: "Agency",
-      category: ["react"],
-      imagePath: "./projects/7.png",
-      github:'https://github.com/yousrik20/website',
-      link:'https://yousrik20.github.io/website/'
-    },
-    {
-      projectTitle: "Video Search",
-      category: ["react"],
-      imagePath: "./projects/8.png",
-      github:'https://github.com/yousrik20/videos',
-      link:'https://yousrik20.github.io/videos/'
-    },
-    {
-      projectTitle: "Image Search",
-      category: ["react"],
-      imagePath: "./projects/9.png",
-      github:'https://github.com/yousrik20/pics',
-      link:'https://yousrik20.github.io/pics/'
-    },
-    {
-      projectTitle: "Color Generator",
-      category: ["react"],
-      imagePath: "./projects/10.png",
-      github:'https://github.com/yousrik20/color-generator',
-      link:'https://yousrik20.github.io/color-generator/'
-    },
-    {
-      projectTitle: "Expense Tracker",
-      category: ["react"],
-      imagePath: "./projects/11.png",
-      github:'https://github.com/yousrik20/expense-tracker',
-      link:'https://yousrik20.github.io/expense-tracker/'
-    },
-    {
-      projectTitle: "Mad Umzug",
-      category: ["react"],
-      imagePath: "./projects/12.png",
-      github:'https://mad-umzug.netlify.app/',
-      link:'https://mad-umzug.netlify.app/'
-
-    },
-  ];
+  {
+    projectTitle: "Light & Dark",
+    category: ["css"],
+    imagePath: "./projects/1.png",
+    desc: "The 'DarkLight' template is a responsive website built with HTML, CSS, and JavaScript, featuring dark and light mode toggles. Its modern design adapts seamlessly to all screen sizes, making it suitable for various web applications.",
+    github: "https://github.com/yousrik20/darkLight-template",
+    link: "https://yousrik20.github.io/darkLight-template/",
+  },
+  {
+    projectTitle: "Passion",
+    category: ["css"],
+    imagePath: "./projects/2.png",
+    desc:"The 'Passion' website is a responsive platform built with HTML, CSS, and JavaScript, showcasing services and testimonials. It ensures a seamless experience across all devices.",
+    github: "https://github.com/yousrik20/passion",
+    link: "https://yousrik20.github.io/passion/",
+  },
+  {
+    projectTitle: "GermanboyStudio",
+    category: ["css"],
+    imagePath: "./projects/5.png",
+    desc:"The 'Germanboy Studio'website is a responsive, portfolio-style template built using HTML, CSS, JavaScript, and Bootstrap. It showcases various design services like web, app, logo, and print design, and is optimized for all screen sizes. Perfect for creative agencies or freelancers.",
+    github: "https://laughing-ardinghelli-30e0f5.netlify.app/",
+    link: "https://laughing-ardinghelli-30e0f5.netlify.app/",
+  },
+  {
+    projectTitle: "GermanBoy Inc",
+    category: ["js"],
+    imagePath: "./projects/4.png",
+    desc:"The 'Germanboy Inc.'' website is a responsive template built using HTML, CSS, JavaScript, and Bootstrap. It offers services like programming, web design, desktop solutions, and web hosting, and is optimized for all screen sizes. Ideal for showcasing company services.",
+    github: "https://github.com/yousrik20/template-inc",
+    link: "https://yousrik20.github.io/template-inc/",
+  },
+  {
+    projectTitle: "Germanboy",
+    category: ["js"],
+    imagePath: "./projects/3.png",
+    desc:"The 'Germanboy' website is a responsive portfolio built using HTML, CSS, JavaScript, jQuery, and Bootstrap. It highlights skills, education, portfolio projects, and testimonials, making it ideal for showcasing professional web development work. It is optimized for all screen sizes.",
+    github: "https://github.com/yousrik20/germanboy2021",
+    link: "https://yousrik20.github.io/germanboy2021/",
+  },
+  {
+    projectTitle: "Germanboy 2022",
+    category: ["js"],
+    imagePath: "./projects/6.png",
+    desc:"The 'Germanboy' website is a responsive portfolio template built using HTML, CSS, JavaScript, and Bootstrap. It highlights services like web design, problem-solving, and portfolio showcasing. The design is optimized for all screen sizes, perfect for professionals or freelancers.",
+    github: "https://github.com/yousrik20/germanboy",
+    link: "https://yousrik20.github.io/germanboy/",
+  },
+  {
+    projectTitle: "Agency",
+    category: ["react"],
+    imagePath: "./projects/7.png",
+    desc:"The website is a responsive web application developed using React, HTML, CSS, and JavaScript. It features a modern, user-friendly design with interactive components, making it ideal for showcasing various projects or services. The layout adjusts seamlessly to all screen sizes.",
+    github: "https://github.com/yousrik20/website",
+    link: "https://yousrik20.github.io/website/",
+  },
+  {
+    projectTitle: "Video Search",
+    category: ["react"],
+    imagePath: "./projects/8.png",
+    desc:"The 'Videos' website is a responsive web application built using React, HTML, CSS, and JavaScript. It features a modern design for displaying video content, allowing users to browse through various videos seamlessly. The layout is optimized for all screen sizes, enhancing user experience.",
+    github: "https://github.com/yousrik20/videos",
+    link: "https://yousrik20.github.io/videos/",
+  },
+  {
+    projectTitle: "Image Search",
+    category: ["react"],
+    imagePath: "./projects/9.png",
+    desc:"The 'Pics' website is a responsive web application developed using React, HTML, CSS, and JavaScript. It features a clean design for displaying images, allowing users to browse photos seamlessly. The layout adapts well to all screen sizes, enhancing user experience.",
+    github: "https://github.com/yousrik20/pics",
+    link: "https://yousrik20.github.io/pics/",
+  },
+  {
+    projectTitle: "Color Generator",
+    category: ["react"],
+    imagePath: "./projects/10.png",
+    desc:"The 'Color Generator' website is a responsive application created using React, HTML, CSS, and JavaScript. It allows users to generate and explore color palettes with an intuitive interface. The layout is optimized for all screen sizes, ensuring a smooth user experience.",
+    github: "https://github.com/yousrik20/color-generator",
+    link: "https://yousrik20.github.io/color-generator/",
+  },
+  {
+    projectTitle: "Expense Tracker",
+    category: ["react"],
+    imagePath: "./projects/11.png",
+    desc:"The 'Expense Tracker' website is a responsive application built with React, HTML, CSS, and JavaScript. It allows users to track and manage their expenses easily with a user-friendly interface. The design adapts well to all screen sizes, ensuring accessibility.",
+    github: "https://github.com/yousrik20/expense-tracker",
+    link: "https://yousrik20.github.io/expense-tracker/",
+  },
+  {
+    projectTitle: "Mad Umzug",
+    category: ["react"],
+    imagePath: "./projects/12.png",
+    desc:"The 'Mad Umzug' website is a responsive platform built using HTML, CSS, and JavaScript. It offers services related to moving and relocation, featuring a clean design and user-friendly interface. The layout adapts seamlessly to all screen sizes, ensuring accessibility for users.",
+    github: "https://mad-umzug.netlify.app/",
+    link: "https://mad-umzug.netlify.app/",
+  },
+];
